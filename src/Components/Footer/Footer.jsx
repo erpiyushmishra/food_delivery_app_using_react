@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer' id='footer'>
         <div className="footer-content">
             <div className="footer-content-left">
-                <img src={assets.logo} alt="" />
+                <h1 className='footer-content-left-logo'>FoodBuzz.</h1>
                 <p>We are proffesionals in the food industry. Our motto is "quality first, and customer should get always best".</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
@@ -30,13 +30,13 @@ const Footer = () => {
                 <h2>Get In Touch</h2>
                 <ul>
                     <li>+91-82435-38732</li>
-                    <li>contact@eatAtTomato.com</li>
+                    <li>contact@eatAtfoodbuzz.com</li>
                 </ul>
 
             </div>
         </div>
         <hr />
-        <p>Copyright 2024 © Tomato.com - All Right Reserved. </p>
+        <p>Copyright 2024 © FoodBuzz.com - All Right Reserved. </p>
 
     </div>
   )

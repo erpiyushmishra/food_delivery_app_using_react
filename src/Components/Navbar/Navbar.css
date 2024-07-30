@@ -4,10 +4,13 @@
     justify-content: space-between;
     align-items:center;
 }
-.navbar .logo{
+.navbar-logo{
+    color:Tomato
+}
+/* .navbar .logo{
     width:150px;
     cursor:pointer;
-}
+} */
 .navbar-menu{
     display:flex;
     list-style:none;

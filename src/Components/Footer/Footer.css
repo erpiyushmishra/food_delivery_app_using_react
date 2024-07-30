@@ -21,6 +21,9 @@
     align-items: start;
     gap: 20px;
 }
+.footer-content-left-logo{
+    color:Tomato;
+}
 .footer-content-left li, .footer-content-right li, .footer-content-center li{
     list-style: none;
     margin-bottom: 10px;
